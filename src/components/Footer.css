@@ -1,0 +1,21 @@
+.footer {
+    background-color: #222d39;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer-github-icon {
+    width: 40px;
+    margin-top: 10px;
+  }
+  
+  .footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: #4eb8b9;
+  }
+  

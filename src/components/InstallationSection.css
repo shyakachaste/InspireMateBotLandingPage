@@ -1,0 +1,18 @@
+.installation-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #e7f3fe;
+  }
+  
+  .installation-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .installation-section pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  

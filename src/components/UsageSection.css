@@ -1,0 +1,20 @@
+.usage-section {
+    padding: 40px;
+    background-color: #f5f5f5;
+  }
+  
+  h2 {
+    color: #222d39;
+    text-align: center;
+  }
+  
+  .code-editor {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'Courier New', monospace;
+    margin: 20px auto;
+    width: 80%;
+  }
+  

@@ -1,0 +1,36 @@
+.hero-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222d39;
+    color: white;
+  }
+  
+  .hero-content {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: #4eb8b9;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .github-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4eb8b9;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .github-link:hover {
+    background-color: #3da1a2;
+  }
+  
